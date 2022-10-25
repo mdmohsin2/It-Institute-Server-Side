@@ -1,42 +1,42 @@
 [
     {
-      "id": "00",
+      "id": "0",
       "name": "All Course"
     },
     {
-      "id": "01",
+      "id": "1",
       "name": "JavaScript"
     },
     {
-      "id": "02",
+      "id": "2",
       "name": " HTML"
     },
     {
-      "id": "03",
+      "id": "3",
       "name": "CSS"
     },
     {
-      "id": "04",
+      "id": "4",
       "name": "React"
     },
     {
-      "id": "05",
+      "id": "5",
       "name": "FireBase"
     },
     {
-      "id": "06",
+      "id": "6",
       "name": "Tailwind"
     },
     {
-      "id": "07",
+      "id": "7",
       "name": "NodeJS"
     },
     {
-      "id": "08",
+      "id": "8",
       "name": "ReactRouter"
     },
     {
-      "id": "09",
+      "id": "9",
       "name": "React Animation"
     },
     {

@@ -17,12 +17,25 @@ app.get('/allcourse', (req, res) => {
     res.send(category)
 })
 
+app.get('/course/:id', (req,res)=>{
+    const id = req.params.id;
+    if(id == '0'){
+        res.send(course)
+    }
+    else{
+        const course_ifno = course.filter(f=> f.id ==id)
+        res.send(course_ifno)
+    }
+})
 
-app.get('/allcourse/:id', (req, res) => {
+
+app.get('/singleCourse/:id', (req, res) => {
     const id = req.params.id;
     const selectCourse = course.find(c => c.id == id)
     res.send(selectCourse)
 })
+
+
 
 
 
