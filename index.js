@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
   })
 
 
-app.get('/course', (req, res) => {
+app.get('/allcourse', (req, res) => {
     res.send(course)
   })
   
