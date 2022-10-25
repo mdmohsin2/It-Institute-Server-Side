@@ -28,12 +28,12 @@ app.get('/course/:id', (req,res)=>{
     }
 })
 
-app.get('alls', (req, res)=>{
+app.get('/alls', (req, res)=>{
     res.send(course)
 })
 
 
-app.get('/singleCourse/:id', (req, res) => {
+app.get('/smallSingleCourse/:id', (req, res) => {
     const id = req.params.id;
     const selectCourse = course.find(c => c.id == id)
     res.send(selectCourse)
