@@ -1,0 +1,92 @@
+[
+    {
+    "id": "1",
+    "name": "JavaScript",
+    "price": "2000",
+    "viewer": "365",
+    "student": "100",
+    "information": "JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433"
+    },
+    {
+    "id": "2",
+    "name": "HTML",
+    "price": "1000",
+    "viewer": "500",
+    "student": "200",
+    "information": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.",
+    "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"
+    },
+    {
+    "id": "3",
+    "name": "CSS",
+    "price": "1000",
+    "viewer": "180",
+    "student": "60",
+    "information": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
+    "img": "https://www.thoughtco.com/thmb/aKrYWqUXZgnIEyVpZl5iQBn6o40=/3499x2334/filters:fill(auto,1)/laptop-with-css-word-on-screen--learn-css--web-development-877009350-5b7b7c26c9e77c00507ccf75-b94287046011490c8538a8cd4cb3e1d1.jpg"
+    },
+    {
+    "id": "4",
+    "name": "React",
+    "price": "2500",
+    "viewer": "200",
+    "student": "100",
+    "information": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.",
+    "img": "https://patterns.dev/img/reactjs/react-logo@3x.svg"
+    },
+    {
+    "id": "5",
+    "name": "FireBase",
+    "price": "1050",
+    "viewer": "100",
+    "student": "40",
+    "information": "Firebase provides tools to grow your app and business, for startups & global enterprises. Get your app up and running quickly & securely with fully managed backend infrastructure. Release Apps Confidently. Boost App Engagement. Accelerate Development.",
+    "img": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/firebase-logo-icon.png?fit=1200%2C600&ssl=1"
+    },
+    {
+    "id": "6",
+    "name": "Tailwind",
+    "price": "1900",
+    "viewer": "71",
+    "student": "45",
+    "information": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.",
+    "img": "https://ih1.redbubble.net/image.1800626835.5626/st,small,507x507-pad,600x600,f8f8f8.jpg"
+    },
+    {
+    "id": "7",
+    "name": "NodeJS",
+    "price": "3000",
+    "viewer": "65",
+    "student": "20",
+    "information": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.",
+    "img": "https://pic.pimg.tw/hondayellow/1628602560-1262643195-g.png"
+    },
+    {
+    "id": "8",
+    "name": "ReactRouter",
+    "price": "2030",
+    "viewer": "30",
+    "student": "15",
+    "information": "React Router is a fully-featured client and server-side routing library for React, a JavaScript library for building user interfaces. React Router runs anywhere React runs; on the web, on the server with node.js, and on React Native.",
+    "img": "https://techsolutionshere.com/wp-content/uploads/2019/02/route-1024x480.png"
+    },
+    {
+    "id": "9",
+    "name": "React Animation",
+    "price": "3000",
+    "viewer": "41",
+    "student": "30",
+    "information": "A collection of animations that can be used with any inline style library that supports using objects to define keyframe animations, such as Radium or Aphrodite. React-animations implements all animations from animate. css. Check out the interactive demo.",
+    "img": "https://miro.medium.com/max/681/1*heU2x0fIJHE9Fsy1Fn1Hjw.png"
+    },
+    {
+    "id": "10",
+    "name": "GitHub",
+    "price": "800",
+    "viewer": "70",
+    "student": "60",
+    "information": "GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.",
+    "img": "https://cdn.arageek.com/magazine/2018/10/12.jpeg"
+    }
+]
