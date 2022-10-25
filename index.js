@@ -28,6 +28,10 @@ app.get('/course/:id', (req,res)=>{
     }
 })
 
+app.get('alls', (req, res)=>{
+    res.send(course)
+})
+
 
 app.get('/singleCourse/:id', (req, res) => {
     const id = req.params.id;
