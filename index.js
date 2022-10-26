@@ -39,6 +39,12 @@ app.get('/smallSingleCourse/:id', (req, res) => {
     res.send(selectCourse)
 })
 
+app.get('/checkout/smallSingleCourse/:id', (req, res) => {
+    const id = req.params.id;
+    const selectCourse = course.find(d => d.id == id)
+    res.send(selectCourse)
+})
+
 
 
 
